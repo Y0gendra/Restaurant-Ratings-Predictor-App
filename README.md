@@ -7,8 +7,11 @@ The Restaurant Rating Predictor App is a machine learning–powered web applicat
 Instead of requiring historical customer reviews, the application estimates a restaurant’s expected rating category from operational characteristics such as:
 
 •	Average cost for two people
+
 •	Table booking availability
+
 •	Online delivery availability
+
 •	Price range
 
 The project combines data preprocessing, feature engineering, a trained ML model, and a Streamlit web interface to provide an interactive prediction experience.
@@ -17,6 +20,9 @@ The project combines data preprocessing, feature engineering, a trained ML model
 The primary objective is to:
 
 •	Predict restaurant quality using structured input features.
+
 •	Demonstrate an end-to-end machine learning workflow.
+
 •	Provide a simple web interface for non-technical users.
+
 •	Showcase deployment-ready ML application development skills.
